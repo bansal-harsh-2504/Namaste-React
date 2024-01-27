@@ -1,0 +1,29 @@
+{
+  "name": "namaste-code",
+  "version": "1.0.0",
+  "description": "Learning React from Akshay Saini sir",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bansal-harsh-2504/Namaste-React.git"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bansal-harsh-2504/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/bansal-harsh-2504/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
+}
