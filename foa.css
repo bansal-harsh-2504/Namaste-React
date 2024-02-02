@@ -38,7 +38,6 @@
 }
 .res-card{
     width: 300px;
-    height: 450px;
     cursor: pointer;
     padding: 5px;
     margin: 5px;
@@ -58,4 +57,8 @@ h4{
 }
 .res-card:hover{
     border: 1px solid black;
+}
+.filter-btn{
+    cursor: pointer;
+    margin: 10px;
 }

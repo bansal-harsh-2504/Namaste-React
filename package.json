@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Learning React from Akshay Saini sir",
   "scripts": {
-    "start": "parcel index.html",
+    "start": "parcel foa.html",
     "build": "parcel build index.html",
     "test": "jest"
   },
